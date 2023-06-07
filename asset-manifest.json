@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dummyjson-api/static/css/main.5a3f62b4.css",
+    "main.js": "/dummyjson-api/static/js/main.e013f5e1.js",
+    "index.html": "/dummyjson-api/index.html",
+    "main.5a3f62b4.css.map": "/dummyjson-api/static/css/main.5a3f62b4.css.map",
+    "main.e013f5e1.js.map": "/dummyjson-api/static/js/main.e013f5e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a3f62b4.css",
+    "static/js/main.e013f5e1.js"
+  ]
+}
